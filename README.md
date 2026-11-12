@@ -86,6 +86,4 @@ Any element with `data-print` is split into word spans on load. On scroll, words
 - Lighthouse (desktop): Accessibility 100, Best Practices 100, SEO 100.
 - Fonts: Fraunces, Manrope and DM Mono via Google Fonts, with system fallbacks.
 
-## Deploy
 
-Drag this folder into Netlify Drop, or push it to GitHub and enable GitHub Pages. No configuration required.
